@@ -8,6 +8,6 @@ mysql:
   lookup:
     server: mysql-server
     client: mysql-client
-    service: mysql-service
+    service: mysql
     config: /etc/mysql/my.cnf
     python: python-mysqldb
